@@ -1,6 +1,6 @@
 {
-"companyName": "rotolonico",
-"productName": "FirebaseWebGLImplementation",
+"companyName": "DefaultCompany",
+"productName": "WebGL Firebase Test",
 "productVersion": "0.1",
 "dataUrl": "Test.data.unityweb",
 "wasmCodeUrl": "Test.wasm.code.unityweb",
